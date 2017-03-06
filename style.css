@@ -1,0 +1,88 @@
+
+
+body {
+    background-color: #D6DBDF;
+    color: #283747;
+}
+
+p {
+    color: #283747;
+    margin: 10px;
+    font-family: "Poppins";
+}
+
+.container {
+    background-color: #EBEDEF;
+   /* padding-top: 0px;
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-bottom: 2%; */
+}
+
+
+h2 { 
+    color: #283747;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+    /*border-bottom: 1px solid #D6DBDF;*/
+    font-family: "Rubik";
+    float: right;
+}
+
+h1 { 
+    color: #283747;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+    /*border-bottom: 1px solid #D6DBDF;*/
+    font-family: "Rubik";
+    float: right;
+}
+
+.right {
+  
+    padding-top: 0px;
+    text-align: right;
+}
+
+.bottom {
+  
+    padding-top: 0px;
+    vertical-align: bottom;
+}
+
+
+p {
+  line-height: 1.4;
+}
+
+a {
+  outline: none;
+  text-decoration: none;
+  padding: 2px 1px 0;
+}
+
+a:link, a:visited {
+  color: #283747;
+}
+
+a:focus, a:hover {
+     text-decoration: none;
+     color: #85929E;
+  border-bottom: none;
+}
+
+a:active {
+     text-decoration: none;
+color: #85929E;
+}
+
+.row {
+        background-color: #EBEDEF;
+    padding-top: 0px;
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-bottom: 3%;
+}
+
+
+/* trouble  top right bottom left */
